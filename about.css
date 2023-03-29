@@ -360,7 +360,7 @@ footer ul li a:hover{
 
     .main_content img{
         position: relative;
-        width: 63rem;
+        width: 100%;
         height: 30rem;
         top: 5rem;
         left: 0rem;
@@ -449,7 +449,7 @@ footer ul li a:hover{
 
     .main_content img{
         position: relative;
-        width: 25.8rem;
+        width: 100%;
         height: 18rem;
         top: 5rem;
         left: 0rem;
