@@ -97,13 +97,18 @@ img{
     color: var(--color-white);
 }
 
+/* #logo img{
+    width: 20%;
+    position: relative;
+    top: 1rem; 
+} */
 
 /* NAVBAR */
 nav{
     background: transparent;
     width: 100vw;
     height: 5rem;
-    position: fixed;
+    position: fixed; 
     top: 0;
     z-index: 11;
 }
@@ -120,7 +125,10 @@ nav{
     align-items: center; 
 }
 .nav_container img{
-    width: 120px;
+    /* display: flex; */
+    /* align-items: left;  */
+    /* gap: 2rem; */
+    width: 100px;
 }
 
 nav button{
